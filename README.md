@@ -1,2 +1,2 @@
-# K-Means_Clustering_Customer_Segmentation
+# K-Means Clustering - Customer Segmentation
 Segmenting the customer using K-means Clustering. Language is Python and Jupyter notebook is used.
